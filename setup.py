@@ -7,6 +7,6 @@ setup(
     author='Taylor Skomp',
     author_email='tjs5nx@virginia.edu',
     description='Package to store read books and ratings',
-    packages=['booklover']  
+    packages=['booklover'],
     install_requires=['numpy >= 1.11.1', 'pandas >= 2.2.2'],
 )
